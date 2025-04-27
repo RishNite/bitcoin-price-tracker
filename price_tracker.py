@@ -1,7 +1,7 @@
 import requests
 
 # 🔹 Replace with your actual API key
-API_KEY = "48b68606-46b0-4edf-85a3-60d8702e4dee"
+API_KEY = "YOUR_COINMARKETCAP_API_KEY_HERE"
 
 # 🔹 API URL for latest cryptocurrency listings
 API_URL = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
