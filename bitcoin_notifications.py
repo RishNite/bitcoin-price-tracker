@@ -4,7 +4,8 @@ from datetime import datetime
 
 BITCOIN_PRICE_THRESHOLD = 100
 BITCOIN_API_URL = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
-API_KEY = "48b68606-46b0-4edf-85a3-60d8702e4dee"
+# Replace with your own CoinMarketCap API key
+API_KEY = "YOUR_API_KEY_HERE"
 IFTTT_WEBHOOKS_URL = 'https://maker.ifttt.com/trigger/{}/with/key/{}'
 
 # Headers for API request
